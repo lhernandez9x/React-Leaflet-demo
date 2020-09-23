@@ -63,8 +63,8 @@
   "dependencies": {
     "json-loader": "^0.5.4",
     "leaflet": "^0.7.7",
-    "react": "^15.2.1",
-    "react-dom": "^15.2.1"
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
   },
   "scripts": {
     "start": "node ./scripts/start.js",
